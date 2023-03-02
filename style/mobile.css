@@ -1,0 +1,44 @@
+@media only screen and (max-width: 768px) {
+    .object{
+        font-size: 40px;
+    }
+
+    .ter{
+        font-size: 20px;
+    }
+    .bs{
+        font-size: 14px;
+    }
+    .p{
+        font-size: 11px;
+    }
+  .pp{
+        font-size: 25px;
+    }
+
+    .pc{
+        font-size: 13px;
+    }
+  }
+  
+  /* screen size 375px */
+  
+  @media only screen and (max-width: 375px) {
+    .object{
+        font-size: 30px;
+    }
+
+    #boxi img{
+  
+        width: 30px;
+        margin: 50px 20px ;
+        
+       
+    }
+  }
+  
+  @media only screen and (max-width: 320px) {
+   
+
+  }
+  

@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+    text-decoration: none;
+    margin: none;
+    padding: none;
+}
+
+/* #navbarNav{
+    position: fixed;
+    float: right;
+
+} */
+.object{
+    
+    margin-top: 2em;
+    font-size: 50px;
+}
+
+#boxi img{
+  
+    width: 40px;
+    margin: 50px 20px ;
+    
+   
+}
+
+#boxi img:hover{
+  
+   background-color: rgb(50, 174, 205);
+   
+    
+   
+}
+
+
+.img{
+    margin-top: 40px;
+}
+
+#PI {
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    padding-bottom: 60px;
+
+
+}
+
+#EA{
+    Padding-top: 60px ;
+}
+
+.ter{
+    margin-top: 2em;
+}
+
+#btn{
+    margin-top: 4em;
+}
+
+header{ background: rgb(6,15,43);
+    background: linear-gradient(180deg, rgba(6,15,43,1) 39%, rgba(82,82,82,1) 75%, rgba(255,255,255,1) 100%);
+}
